@@ -34,6 +34,15 @@ public class Main {
             System.out.println("The " + car + " is not for sale");
         }
 
+        // My homework
+        String fullname = "Haikal Syukri";
+        int gta = 6;
+        double pi = 3.14159;
+        char gender = 'M';
+        boolean isAdmin = true;
+
+        System.out.println("The name is " + fullname + "\n");
+
     }
 
 }
